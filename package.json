@@ -1,0 +1,19 @@
+{
+  "name": "com.gameworkstore.playfabsdkunity",
+  "version": "0.0.1",
+  "displayName": "GameWorkstore Playfab SDK (Unofficial)",
+  "description": "GameWorkstore Playfab SDK (Unofficial)",
+  "unity": "2020.2",
+  "unityRelease": "2f1",
+ "keywords": [
+    "playfab",
+	"unity",
+    "Package",
+    "PackageManager"
+  ],
+  "author": {
+    "name": "LUIS8",
+    "email": "contato@luis8.com",
+    "url": "https://luis8.com"
+  }
+}
