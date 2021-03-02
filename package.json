@@ -1,0 +1,16 @@
+{
+  "name": "com.gameworkstore.playfabsdkunity",
+  "version": "0.0.1",
+  "displayName": "GameWorkstore Playfab SDK (Unofficial)",
+  "description": "GameWorkstore Playfab SDK (Unofficial)",
+  "unity": "2020.1",
+  "keywords": [ "playfab", "unity", "inventory", "a/b testing" ],
+  "author": {
+    "name": "Game Workstore",
+    "email": "contact@gameworkstore.com",
+    "url": "https://gameworkstore.com"
+  },
+  "dependencies": {
+
+  }
+}
