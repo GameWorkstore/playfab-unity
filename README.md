@@ -3,13 +3,19 @@ Unity NPM version of Playfab SDK! This repository applies the same license terms
 
 # How to install
 
-At package.json, add these line of code:
-> "com.gameworkstore.playfabsdkunity": "git://github.com/GameWorkstore/playfab-unity.git"
+# How to install
+
+At package.json, add these lines of code:
+```json
+"com.gameworkstore.playfabsdkunity": "git://github.com/GameWorkstore/playfab-unity.git#2.104.1"
+```
 
 And wait for unity to download and compile the package.
 
-for update package for a newer version, install UpmGitExtension and update on [ Window > Package Manager ]!
-> https://github.com/mob-sakai/UpmGitExtension
+you can upgrade your version by including the release version at end of the link:
+```json
+"com.gameworkstore.playfabsdkunity": "git://github.com/GameWorkstore/playfab-unity.git#2.114.0"
+```
 
 # Contributions
 
