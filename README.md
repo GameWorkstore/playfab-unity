@@ -3,8 +3,6 @@ Unity NPM version of Playfab SDK! This repository applies the same license terms
 
 # How to install
 
-# How to install
-
 At package.json, add these lines of code:
 ```json
 "com.gameworkstore.playfabsdkunity": "git://github.com/GameWorkstore/playfab-unity.git#2.104.1"
